@@ -1,6 +1,6 @@
 # Responsive Navbar Scroll Effects 
 
-This project is part of a YouTube tutorial in which we build a responsive navbar scroll effects from scratch using HTML & CSS
+This project is part of a YouTube tutorial in which we build a responsive navbar scroll effects from scratch using HTML CSS & JavaScript
 
 ## 🎬 [Watch the Demo & Code](https://youtu.be/4C5UhlGPb8U) 
 
